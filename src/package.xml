@@ -25,10 +25,6 @@
         <name>CustomLabel</name>
     </types>
     <types>
-        <members>CustomLabels</members>
-        <name>CustomLabels</name>
-    </types>
-    <types>
         <members>*</members>
         <name>CustomMetadata</name>
     </types>
@@ -73,7 +69,7 @@
         <name>ListView</name>
     </types>
     <types>
-        <members>Admin</members>
+        <members>*</members>
         <name>Profile</name>
     </types>
     <types>
